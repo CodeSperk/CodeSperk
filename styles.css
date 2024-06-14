@@ -1,0 +1,46 @@
+.container {
+  text-align: center;
+  background:   url("./bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 278px;
+  width: 830px;
+  color: rgb(224, 224, 224);
+  position: relative;
+  line-height: 0;
+  padding: 16px;
+  font-weight: 600;
+  padding-top: 46px;
+  }
+
+  .h1{
+    font-size:48px;
+  }
+  .h3{
+    font-size: 28px;
+  }
+
+  .contact{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    margin:0 auto;
+    background-color: rgb(195, 195, 195);
+    width: fit-content;
+    padding: 4px 16px;
+    border-radius: 4px;
+    margin-top:32px;
+  }
+
+  .contact div{
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    font-size: 16px;
+    color:rgb(51, 51, 51)
+  }
+  
+  
+
+
