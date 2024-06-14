@@ -15,10 +15,13 @@
 <a href="https://www.linkedin.com/in/mahbub692" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
 
-## 
-## Technologies
+<h4> I'm passionate about creating user-friendly web applications. My expertise lies in React.js, JavaScript, Tailwind CSS, CSS3 and HTML5 with experience in Express.js, MongoDB, Firebase, and RESTful APIs. </h4> 
+
+<br/>
+
+## Technologies & Tools
 <div>
   <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -33,11 +36,13 @@
 </div>
 
 
+</br>
+
 ## Github Stats  
 <div >
   <img src="https://github-readme-stats.vercel.app/api?username=CodeSperk&show_icons=true&count_private=true" align="center" />
 </div>  
-<br />
+
 
 <!--
 **CodeSperk/CodeSperk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
