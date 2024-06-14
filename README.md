@@ -17,7 +17,7 @@
 </a>
 </div>
 
-<h4> I'm passionate about creating user-friendly web applications. My expertise lies in React.js, JavaScript, Tailwind CSS, CSS3 and HTML5 with experience in Express.js, MongoDB, Firebase, and RESTful APIs. </h4> 
+<h3> I'm passionate about creating user-friendly web applications. My expertise lies in React.js, JavaScript, Tailwind CSS, CSS3 and HTML5 with experience in Express.js, MongoDB, Firebase, and RESTful APIs. </h3> 
 
 <br/>
 
