@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="GitHub Banner">
 </p>
 <div align="center">
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://portfolio-six-steel-81.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
 </a>
 </a>
