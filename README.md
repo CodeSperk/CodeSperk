@@ -18,14 +18,14 @@
 
 <br/>
 
-## Github Stats  
+## :chart_with_upwards_trend: My Current Stats
 <div align-center>
   <img src="https://github-readme-stats.vercel.app/api?username=CodeSperk&show_icons=true&count_private=true" align="center" />
 </div> 
 
 <br/>
 
-## Technologies  
+## :computer: Technologies that I use  
 <p>
 <img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/HTML.png"/>
 <img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/css.png"/>
