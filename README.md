@@ -17,31 +17,29 @@
 </a>
 </div>
 
-<h3> I'm passionate about creating user-friendly web applications. My expertise lies in React.js, JavaScript, Tailwind CSS, CSS3 and HTML5 with experience in Express.js, MongoDB, Firebase, and RESTful APIs. </h3> 
+<h3> I'm passionate Front-End Developer dedicated to continuous learning and staying current with emerging technologies. Seeking to contribute to a dynamic team by leveraging my skills to develop user-friendly web applications and grow my expertise in front-end development. </h3> 
 
 <br/>
 
-## Technologies & Tools
-<div>
-  <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-  <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-  <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-  <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-  <img style="margin: 10px;" src="https://img.icons8.com/color/452/firebase.png" height="50" />
-  <img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" />
-</div>
-
-
-</br>
-
 ## Github Stats  
-<div >
+<div align-center>
   <img src="https://github-readme-stats.vercel.app/api?username=CodeSperk&show_icons=true&count_private=true" align="center" />
-</div>  
+</div> 
+
+<br/>
+
+## Technologies  
+<p>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/HTML.png"/>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/css.png"/>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/JavaScript.png"/>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/react.png"/>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/tailwind.png"/>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/firebase.png"/>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/node.png"/>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/express.png"/>
+<img src="https://github.com/CodeSperk/CodeSperk/blob/main/technology_icons/mongo.png"/>
+</p>
 
 
 <!--
